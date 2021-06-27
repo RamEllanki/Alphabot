@@ -49,8 +49,7 @@ Alt-Alphabot (Maze Traversing Bot)
 * IMPLEMENTATION :
       
      Several Arduino compliant C++ libraries were used for the purpose of motor and sensor handling. Some of the code is provided in the examples from the manufacturer. All the library files that are used in our code are uploaded in our GitHub repository to which the instructor has full access. In the listing below, the algorithm that we used in our bot is presented.
-[maze0.txt](https://github.com/RamEllanki/Alphabot/files/6722431/maze0.txt)
-
+[MazeSolver](https://github.com/RamEllanki/Alphabot/blob/main/Final_MazeSolver.ino)
       
 * CONCLUSION :
       
