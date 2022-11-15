@@ -3,7 +3,7 @@ Alt-Alphabot (Maze Traversing Bot)
 ## Politechnika Poznanska (WARiE)
 ### Term Design Project (Group 5)
 
-#### Students : Ram Ellanki - 139783, Mohamed Majdouline - 142064.
+#### Students : Ram Ellanki, Mohamed Majdouline.
 #### Instructor : Mgr inz. Jan Wietrzykowski
 ------
 ### Introduction
